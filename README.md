@@ -1,9 +1,11 @@
 # thinkful-git-ws
 For Thinkful Detroit's Git &amp; GitHub Workshop
+this is a change ff
 
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
 hello world
 ## Git
+another change ff
 
 * What is Git?
   * GitHub is the most popular site for remotely saving our code and collaborating with other developers on open source projects
